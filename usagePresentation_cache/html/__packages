@@ -1,0 +1,9 @@
+base
+dplyr
+stringr
+purrr
+highcharter
+ggthemes
+ggplot2
+viridisLite
+ggalt

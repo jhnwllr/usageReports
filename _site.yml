@@ -2,10 +2,12 @@ name: "Dataset Usage Reports"
 navbar:
   title: ""
   left:
-    - text: "Home"
+    - text: "GBIF downloads presentation"
+      href: "usagePresentation.html"
+    - text: "50 random dataset usage reports"
       href: index.html
-    - text: "Example"
-      href:  "71da0e5e-f762-11e1-a439-00145eb45e9a.html"
+    - text: "Random Dataset Example"
+      href: "71da0e5e-f762-11e1-a439-00145eb45e9a.html"
 
       
       
